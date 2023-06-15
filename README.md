@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adnan-s-husain&label=Profile%20views&color=0e75b6&style=flat" alt="adnan-s-husain" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack (MongoDB, ExpressJS, ReactJS, NodeJS) and React-Native**
+- 📫 Checkout my Portfolio <a href="https://adnansh.in" target="_blank" rel="referrer">**adnansh.in**</a>
+
+- 🌱 I’m currently learning **Systems Programming, Machine Learning, DSA**
 
 - 👯 I’m looking to collaborate on **ReactJS, MERN projects**
 
